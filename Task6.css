@@ -1,0 +1,91 @@
+*
+{
+    padding:10px;
+}
+.head
+{
+    font-size:30px;
+    text-align:center;
+}
+.container1
+{
+    background-color: cadetblue;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.input-box
+{
+    height:40px;
+    width:60%;
+    border-radius:5px;
+    font-size:20px;
+}
+.btn1
+{
+    height:40px;
+    width:10%;
+    padding:5px;
+    background-color:burlywood;
+    color:white;
+    font-size:20px;
+    margin:10px;
+    border-radius:5px;
+    border-width: 0px;
+}
+.container2
+{
+    background-color:white;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.head2
+{
+    font-size:30px;
+    text-align:left;
+}
+.li-container
+{
+    height:50px;
+    width:80vw;
+    background-color: cadetblue;
+    list-style-type: none;
+    margin:10px;
+    padding:10px;
+    display:flex;
+    flex-direction: row;
+}
+.check-size
+{
+    height:20px;
+    width:20px;
+    margin:15px;
+}
+.div-cont
+{
+    height:20px;
+    width:70vw;
+    background-color: white;
+    padding:15px;
+    font-size:20px;
+}
+.del-btn
+{
+    height:40px;
+    width:10vw;
+    background-color:blanchedalmond;
+    padding:5px;
+    color:black;
+    border-width:0px;
+    border-radius:5px;
+    font-size:20px;
+    margin-bottom:10px;
+    margin-top:0px;
+}
+.checkedd
+{
+    text-decoration: line-through;
+}
